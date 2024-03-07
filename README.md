@@ -1,3 +1,5 @@
+<img align="center" alt="Coding" width="1200" height="350" src="https://www.google.com/search?q=writing+emoji+gif&tbm=isch&ved=2ahUKEwizurXYmOOEAxVt5bsIHWyfAwEQ2-cCegQIABAA&oq=writing+emoji+gif&gs_lp=EgNpbWciEXdyaXRpbmcgZW1vamkgZ2lmMgcQABiABBgTSO8KUNAEWNEJcAF4AJABAJgBXaAB2wOqAQE2uAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgQQIxgnwgIGEAAYBxgeiAYB&sclient=img&ei=sD7qZbOiEe3K7_UP7L6OCA&bih=922&biw=1866&client=opera&hs=8Fl#imgrc=Ygupe1LbmLIAGM">
+<br/>
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
 <h3 align="center">An ambitious backend developer from Poland</h3>
 
@@ -15,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/user:23556339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23556339" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23556339" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:23556339" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nexto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nexto" height="30" width="40" /></a>
 </p>
 
