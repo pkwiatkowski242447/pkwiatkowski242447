@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" height="350" src="https://tenor.com/pl/view/typing-gif-21026319">
+![Coding](https://tenor.com/pl/view/typing-gif-21026319)
 <br/>
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
 <h3 align="center">An ambitious backend developer from Poland</h3>
