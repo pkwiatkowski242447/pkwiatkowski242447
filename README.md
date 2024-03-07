@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1200" height="350" src="https://www.google.com/search?q=writing+emoji+gif&tbm=isch&ved=2ahUKEwizurXYmOOEAxVt5bsIHWyfAwEQ2-cCegQIABAA&oq=writing+emoji+gif&gs_lp=EgNpbWciEXdyaXRpbmcgZW1vamkgZ2lmMgcQABiABBgTSO8KUNAEWNEJcAF4AJABAJgBXaAB2wOqAQE2uAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgQQIxgnwgIGEAAYBxgeiAYB&sclient=img&ei=sD7qZbOiEe3K7_UP7L6OCA&bih=922&biw=1866&client=opera&hs=8Fl#imgrc=Ygupe1LbmLIAGM">
+<img align="center" alt="Coding" width="1200" height="350" src="https://tenor.com/pl/view/typing-gif-21026319">
 <br/>
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
 <h3 align="center">An ambitious backend developer from Poland</h3>
