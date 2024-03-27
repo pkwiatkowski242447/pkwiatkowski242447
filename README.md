@@ -1,5 +1,6 @@
-![gif](https://github.com/pkwiatkowski242447/pkwiatkowski242447/assets/126484709/5703f59c-5fc3-459d-9353-313f12e890e6)
+<img src="https://github.com/pkwiatkowski242447/pkwiatkowski242447/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="80%" height="50%"/>
 <br/>
+
 
 <h1 align="center">Hi 👋, I'm Piotrek</h1>
 <h3 align="center">An ambitious backend developer from Poland</h3>
