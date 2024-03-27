@@ -1,4 +1,6 @@
-<img src="https://github.com/pkwiatkowski242447/pkwiatkowski242447/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="80%" height="50%"/>
+<div align="center">
+  <img src="https://github.com/pkwiatkowski242447/pkwiatkowski242447/assets/126484709/f88981cf-6140-4fa6-949f-069be445a829" width="50%" height="25%" style="center"/>
+</div>
 <br/>
 
 
